@@ -1,0 +1,211 @@
+Suburb,Address,Type,Date,Bedroom,Bathroom,Landsize,BuildingArea,YearBuilt,Latitude,Longtitude,ParkingArea,Price
+Burwood,15 Loudon Rd,h,3/9/2016,4.0,3.0,661.0,253,1940.0,-37.848,145.098,Indoor,1590000.0
+Burwood,4 Bennett St,h,3/12/2016,3.0,1.0,697.0,,,-37.851,145.1169,Attached Garage,1390000.0
+Burwood,6 Elgar Rd,h,3/12/2016,3.0,1.0,668.0,,,-37.8486,145.1094,Indoor,
+Burwood,2 Highbury Rd,h,3/12/2016,4.0,2.0,602.0,,,-37.8536,145.0957,Parkade,
+Burwood,7 Keogh St,h,3/12/2016,3.0,1.0,773.0,,1960.0,-37.8562,145.1104,Underground,1300000.0
+Burwood,35 McCubbin St,h,3/12/2016,4.0,2.0,1145.0,111,1960.0,-37.8538,145.127,Outdoor Stall,1890000.0
+Burwood,2/32 McIntyre St,u,3/12/2016,3.0,2.0,265.0,130,2000.0,-37.8516,145.1056,Carport,1022500.0
+Burwood,1 Webb St,h,3/12/2016,3.0,1.0,662.0,,,-37.8561,145.1054,Detached Garage,1250000.0
+Burwood,163 Highbury Rd,h,4/2/2016,3.0,1.0,695.0,,,-37.8551,145.1121,Indoor,1151000.0
+Burwood,30 Station St,h,4/2/2016,3.0,1.0,931.0,145,1970.0,-37.854,145.1195,Parkade,1755000.0
+Burwood,2/2 Aylwin Av,u,4/6/2016,,,,,,,,Parking Pad,604000.0
+Burwood,2 Elgar Rd,h,4/6/2016,3.0,1.0,667.0,136,1950.0,-37.8489,145.1093,Carport,1300000.0
+Burwood,1 Leopold St,h,4/6/2016,3.0,1.0,763.0,118,1950.0,-37.8589,145.0948,Detached Garage,
+Burwood,48 Station St,h,4/6/2016,3.0,1.0,786.0,111,1950.0,-37.8525,145.1198,Attached Garage,1160000.0
+Burwood,2 Alder St,h,7/5/2016,4.0,2.0,811.0,,,-37.8489,145.0985,Detached Garage,
+Burwood,5 Church St,h,7/5/2016,4.0,2.0,711.0,,,-37.8513,145.0965,Attached Garage,
+Burwood,2/4 Farleigh Av,h,7/5/2016,,,,,,,,Indoor,
+Burwood,7 Wattlebird Ct,h,7/5/2016,4.0,3.0,928.0,229,1996.0,-37.842,145.102,Parkade,2000000.0
+Burwood,1/9 Bronte Av,u,7/11/2016,,,,,,,,Parkade,601000.0
+Burwood,1/14 Corrigan St,h,7/11/2016,3.0,1.0,318.0,103,1960.0,-37.8544,145.1114,Underground,790000.0
+Burwood,24 Patterson Av,h,7/11/2016,,,,,,,,Outdoor Stall,
+Burwood,30 Waratah Av,t,7/11/2016,,,,,,,,Parking Pad,930000.0
+Burwood,36 Cumming St,h,8/10/2016,30.0,12.0,946.0,,1950.0,-37.853,145.1129,Detached Garage,
+Burwood,25 Greenwood St,h,8/10/2016,4.0,2.0,921.0,174,1950.0,-37.8494,145.1291,Attached Garage,1682000.0
+Burwood,14/1 Conservatory Dr,u,10/9/2016,3.0,2.0,0.0,115,2002.0,-37.8561,145.0962,Attached Garage,625000.0
+Burwood,2/22 Scott Gr,t,10/9/2016,3.0,2.0,160.0,,,-37.8525,145.0973,Indoor,780000.0
+Burwood,2 Bennett St,h,10/12/2016,3.0,1.0,690.0,,,-37.8509,145.117,Parkade,1342000.0
+Burwood,29 Clanbrae Av,h,10/12/2016,,,,,,,,Underground,1381000.0
+Burwood,1/9 Farleigh Av,u,10/12/2016,,,,,,,,Outdoor Stall,
+Burwood,12 Havelock St,h,10/12/2016,4.0,2.0,804.0,,,-37.8516,145.1179,Parking Pad,1782800.0
+Burwood,1/34 Cumming St,h,12/6/2016,4.0,3.0,326.0,210,2013.0,-37.8528,145.1129,Indoor,1060000.0
+Burwood,14 Wridgway Av,h,12/6/2016,,,,,,,,Parkade,1765000.0
+Burwood,33 Brockhoff Dr,h,12/11/2016,4.0,2.0,438.0,210,2005.0,-37.8599,145.1101,Detached Garage,1255000.0
+Burwood,9 Ian Gr,h,12/11/2016,4.0,2.0,608.0,,,-37.8555,145.1203,Attached Garage,
+Burwood,2/65 Arthur St,t,3/6/2017,,,,,,,,Indoor,
+Burwood,40 Gillard St,h,3/6/2017,4.0,2.0,758.0,,,-37.85371,145.1139,Parkade,
+Burwood,5/19 Hughes St,t,3/6/2017,4.0,3.0,94.0,184,,-37.85213,145.10928,Underground,845000.0
+Burwood,8 Scott Gr,h,3/6/2017,3.0,1.0,423.0,84,1950.0,-37.85155,145.09769,Outdoor Stall,
+Burwood,2/107 Station St,u,3/6/2017,2.0,1.0,251.0,,1975.0,-37.84738,145.11997,Carport,700000.0
+Burwood,45 Barnes Av,h,4/3/2017,,,,,,,,Detached Garage,1505000.0
+Burwood,34 Beddows St,h,4/3/2017,5.0,3.0,513.0,185,1970.0,-37.8532,145.1156,Attached Garage,
+Burwood,20 Gilmour St,h,4/3/2017,6.0,3.0,796.0,367,2014.0,-37.8529,145.0986,Indoor,
+Burwood,49 Morton Rd,h,4/3/2017,3.0,2.0,741.0,,,-37.8578,145.0993,Carport,
+Burwood,39 Sixth Av,h,4/3/2017,,,,,,,,Detached Garage,935000.0
+Burwood,1/109 Station St,u,4/3/2017,3.0,1.0,273.0,,1980.0,-37.8473,145.1203,Attached Garage,686000.0
+Burwood,7 Waratah Av,h,4/3/2017,,,,,,,,Indoor,1400000.0
+Burwood,24 Andrews St,h,6/5/2017,6.0,2.0,665.0,209,1950.0,-37.8493,145.1283,Attached Garage,1591000.0
+Burwood,165 Highbury Rd,h,6/5/2017,4.0,1.0,697.0,,,-37.8552,145.1123,Indoor,
+Burwood,3/51 Middleborough Rd,u,6/5/2017,2.0,1.0,153.0,,1970.0,-37.8528,145.1318,Parkade,580000.0
+Burwood,3/12 Somers St,u,6/5/2017,2.0,1.0,81.0,,1965.0,-37.8495,145.0999,Carport,605000.0
+Burwood,15 Summit Rd,h,6/5/2017,3.0,1.0,827.0,,,-37.8466,145.1228,Detached Garage,
+Burwood,23/1 Conservatory Dr,u,7/10/2017,,,,,,,,Attached Garage,
+Burwood,13/19 Hughes St,t,7/10/2017,,,,,,,,Indoor,1002000.0
+Burwood,8 Pearce St,h,7/10/2017,4.0,1.0,,133,1950.0,-37.85556,145.12966,Parkade,1200000.0
+Burwood,1/47 Roslyn St,t,7/10/2017,,,,,,,,Carport,1405000.0
+Burwood,1/24 Daniel St,t,8/4/2017,3.0,2.0,267.0,150,2012.0,-37.8463,145.1071,Carport,975000.0
+Burwood,68 Somers St,h,8/4/2017,3.0,2.0,620.0,,,-37.8445,145.1005,Detached Garage,1465500.0
+Burwood,14 Cumming St,h,8/7/2017,3.0,1.0,695.0,,,-37.85126,145.1132,Carport,1530000.0
+Burwood,5 Ardenne Cl,h,9/9/2017,,,,,,,,Indoor,
+Burwood,12 Burbidge Cl,h,9/9/2017,,,,,,,,Parkade,
+Burwood,15 Wattlebird Ct,h,9/9/2017,4.0,2.0,514.0,258,2000.0,-37.84248,145.10181,Underground,1750000.0
+Burwood,4 Narmi Ct,h,9/12/2017,4.0,2.0,563.0,564,1960.0,-37.8476,145.12667,Indoor,
+Burwood,29 Parer St,h,9/12/2017,4.0,2.0,,197,1930.0,-37.84787,145.10371,Parkade,1500000.0
+Burwood,71 Parer St,h,9/12/2017,3.0,2.0,695.0,169,1940.0,-37.84482,145.10427,Underground,
+Burwood,15 Sparks Av,h,9/12/2017,4.0,3.0,555.0,,,-37.85551,145.12599,Outdoor Stall,
+Burwood,24 Wridgway Av,h,9/12/2017,6.0,2.0,836.0,142,1955.0,-37.85314,145.12076,Carport,
+Burwood,3/14 Havelock St,t,11/2/2017,,,,,,,,Carport,956000.0
+Burwood,3 Peacock St,h,11/2/2017,3.0,1.0,706.0,,,-37.8509,145.1161,Detached Garage,1468000.0
+Burwood,28 Farleigh Av,t,11/3/2017,,,,,,,,Detached Garage,
+Burwood,1/10 McComas Gr,u,11/3/2017,2.0,1.0,194.0,120,1975.0,-37.8509,145.1119,Attached Garage,650000.0
+Camberwell,28 Brinsley Rd,h,3/9/2016,4.0,2.0,652.0,189,1890.0,-37.8286,145.0686,Parkade,2650000.0
+Camberwell,2/1 Glen Iris Rd,t,3/9/2016,3.0,1.0,389.0,,,-37.8435,145.0695,Underground,1615000.0
+Camberwell,6 Kalang Rd,h,3/9/2016,3.0,1.0,980.0,154,1930.0,-37.8441,145.0775,Outdoor Stall,
+Camberwell,1288 Toorak Rd,h,3/9/2016,4.0,3.0,934.0,,,-37.8496,145.0869,Parking Pad,3225000.0
+Camberwell,1/19 Alma Rd,h,3/12/2016,3.0,2.0,332.0,,1995.0,-37.8372,145.0585,Attached Garage,
+Camberwell,1/806 Burke Rd,u,3/12/2016,2.0,1.0,0.0,,1940.0,-37.8231,145.0585,Indoor,1017000.0
+Camberwell,4/2 Callanish Rd,u,3/12/2016,2.0,1.0,137.0,87,1970.0,-37.8459,145.088,Parkade,729000.0
+Camberwell,49 Christowel St,h,3/12/2016,5.0,4.0,708.0,348,1940.0,-37.8386,145.067,Carport,2600000.0
+Camberwell,45 Fairview Av,h,3/12/2016,,,,,,,,Detached Garage,
+Camberwell,1/21 Glencairn Av,u,3/12/2016,,,,,,,,Attached Garage,
+Camberwell,19 King St,h,3/12/2016,3.0,2.0,636.0,238,2002.0,-37.8357,145.0644,Indoor,
+Camberwell,38 Sunnyside Av,h,3/12/2016,,,,,,,,Parkade,
+Camberwell,10/1311 Toorak Rd,t,3/12/2016,,,,,,,,Carport,
+Camberwell,3/107 Wattle Valley Rd,h,3/12/2016,3.0,2.0,305.0,189,1998.0,-37.8365,145.0802,Detached Garage,1650000.0
+Camberwell,1/569 Camberwell Rd,h,4/6/2016,2.0,1.0,230.0,,1994.0,-37.8448,145.0723,Indoor,950000.0
+Camberwell,5 Gowar Av,h,4/6/2016,,,,,,,,Parkade,2285000.0
+Camberwell,9/43 Inglesby Rd,u,4/6/2016,2.0,1.0,1107.0,68,1960.0,-37.8347,145.057,Underground,615000.0
+Camberwell,1/21 Kalang Rd,t,4/6/2016,3.0,2.0,337.0,133,1976.0,-37.844,145.0797,Outdoor Stall,
+Camberwell,19 Lansell Cr,h,4/6/2016,,,,,,,,Parking Pad,1950000.0
+Camberwell,89 Radnor St,h,4/6/2016,3.0,2.0,706.0,164,1960.0,-37.8457,145.0611,Carport,1987000.0
+Camberwell,3/28 Stodart St,u,4/6/2016,2.0,1.0,146.0,86,1970.0,-37.8357,145.0697,Detached Garage,683000.0
+Camberwell,2 Thomas St,h,4/6/2016,3.0,2.0,777.0,154,1950.0,-37.8431,145.0962,Attached Garage,1690000.0
+Camberwell,19/1295 Toorak Rd,u,4/6/2016,2.0,1.0,0.0,56,2011.0,-37.8493,145.0877,Indoor,430000.0
+Camberwell,3/926 Toorak Rd,u,4/6/2016,2.0,1.0,136.0,,1960.0,-37.8469,145.0589,Parkade,717000.0
+Camberwell,2 Webster St,h,4/6/2016,4.0,2.0,650.0,350,2008.0,-37.8367,145.0939,Underground,
+Camberwell,1/1 Glen Iris Rd,t,6/8/2016,3.0,2.0,342.0,,,-37.8433,145.0695,Underground,1300000.0
+Camberwell,1292 Toorak Rd,h,6/8/2016,6.0,2.0,914.0,360,1931.0,-37.8496,145.0873,Outdoor Stall,
+Camberwell,4/196 Warrigal Rd,t,6/8/2016,,,,,,,,Parking Pad,
+Camberwell,4 Braeside Av,h,7/5/2016,,,,,,,,Underground,
+Camberwell,68 Hunter Rd,h,7/5/2016,4.0,2.0,661.0,,,-37.8382,145.0904,Outdoor Stall,2950000.0
+Camberwell,18 Russell St,h,7/5/2016,3.0,2.0,600.0,232,1897.0,-37.8237,145.0638,Carport,2600000.0
+Camberwell,19 Thomas St,h,7/5/2016,3.0,2.0,1133.0,131,1930.0,-37.8426,145.0943,Detached Garage,2325000.0
+Camberwell,551 Camberwell Rd,h,7/11/2016,5.0,3.0,832.0,410,1950.0,-37.8434,145.0707,Carport,
+Camberwell,2/4 Seville St,u,7/11/2016,2.0,1.0,156.0,,,-37.8421,145.068,Detached Garage,
+Camberwell,3/220 Warrigal Rd,u,7/11/2016,2.0,1.0,896.0,77,1960.0,-37.8479,145.0958,Attached Garage,435000.0
+Camberwell,17 Granville St,h,8/10/2016,4.0,3.0,660.0,467,2015.0,-37.8393,145.0949,Indoor,
+Camberwell,2 Oxford St,h,8/10/2016,2.0,1.0,335.0,,,-37.8452,145.0959,Parkade,892000.0
+Camberwell,8 Stanhope Gr,h,8/10/2016,5.0,2.0,1040.0,,1910.0,-37.8234,145.0653,Underground,
+Camberwell,14 Callanish Rd,h,10/9/2016,3.0,3.0,425.0,334,1940.0,-37.8457,145.0867,Carport,
+Camberwell,29 Fairfield Av,h,10/9/2016,,,,,,,,Detached Garage,3165000.0
+Camberwell,3/40 Glen Iris Rd,h,10/9/2016,,,,,,,,Attached Garage,1550000.0
+Camberwell,1/688 Inkerman Rd,u,10/9/2016,,,,,,,,Indoor,522000.0
+Camberwell,14 Marlborough Av,h,10/9/2016,,,,,,,,Parkade,3360000.0
+Camberwell,3/573 Riversdale Rd,t,10/9/2016,2.0,1.0,93.0,111,,-37.8314,145.0611,Carport,900400.0
+Camberwell,84 Bowen St,h,10/12/2016,4.0,2.0,730.0,244,1890.0,-37.8449,145.0621,Carport,
+Camberwell,12 Brinsley Rd,h,10/12/2016,4.0,2.0,650.0,,,-37.8274,145.0688,Detached Garage,2090000.0
+Camberwell,3/575 Burke Rd,t,10/12/2016,3.0,2.0,232.0,,,-37.842,145.0542,Attached Garage,1250000.0
+Camberwell,4/445 Camberwell Rd,t,10/12/2016,4.0,2.0,221.0,146,1997.0,-37.838,145.0651,Indoor,
+Camberwell,34 Seymour Gr,h,10/12/2016,5.0,2.0,814.0,278,1900.0,-37.8356,145.0582,Parkade,
+Camberwell,11 Sunnyside Av,h,10/12/2016,,,,,,,,Underground,3775000.0
+Camberwell,4 Range St,h,12/6/2016,3.0,1.0,821.0,105,1925.0,-37.8459,145.0644,Underground,2000000.0
+Camberwell,163 Through Rd,h,12/6/2016,2.0,1.0,427.0,115,1938.0,-37.8367,145.0934,Outdoor Stall,1302000.0
+Camberwell,1/32 Allambee Av,u,12/11/2016,,,,,,,,Indoor,753000.0
+Camberwell,2/37 Donna Buang St,h,12/11/2016,3.0,2.0,244.0,,,-37.8446,145.068,Parkade,1430000.0
+Camberwell,2/1 Gavan St,t,12/11/2016,2.0,3.0,143.0,100,2014.0,-37.8478,145.0953,Underground,
+Camberwell,13 Grace St,h,12/11/2016,3.0,1.0,544.0,160,1930.0,-37.8436,145.0581,Outdoor Stall,1622000.0
+Camberwell,7/5 Holly St,u,12/11/2016,2.0,1.0,0.0,77,1965.0,-37.8255,145.0592,Parking Pad,502000.0
+Camberwell,7 Love St,h,12/11/2016,3.0,2.0,648.0,,,-37.8453,145.0745,Carport,
+Camberwell,13 Tyrone St,h,12/11/2016,5.0,2.0,676.0,288,1930.0,-37.8442,145.0729,Detached Garage,
+Camberwell,3/220 Warrigal Rd,u,12/11/2016,2.0,1.0,896.0,77,1960.0,-37.8479,145.0958,Attached Garage,435000.0
+Camberwell,6/9 Eddy St,u,1/7/2017,2.0,1.0,131.0,76,1975.0,-37.84716,145.07351,Indoor,677000.0
+Camberwell,31a Morey St,h,1/7/2017,,,,,,,,Parkade,
+Camberwell,2/576 Riversdale Rd,u,1/7/2017,2.0,1.0,0.0,,,-37.83202,145.06095,Carport,670000.0
+Camberwell,4/924 Toorak Rd,t,1/7/2017,3.0,2.0,227.0,223,2006.0,-37.84689,145.05863,Detached Garage,1320000.0
+Camberwell,1/25 Doonkuna Av,h,3/6/2017,,,,,,,,Indoor,1041000.0
+Camberwell,4 Fairfield Av,h,3/6/2017,,,,,,,,Carport,2960000.0
+Camberwell,64 Glyndon Rd,h,3/6/2017,4.0,2.0,984.0,,1930.0,-37.84,145.07853,Detached Garage,3050000.0
+Camberwell,8/101 Wattle Valley Rd,t,3/6/2017,3.0,2.0,350.0,,,-37.8356,145.08005,Attached Garage,1171000.0
+Camberwell,78 Bowen St,h,3/9/2017,4.0,3.0,947.0,,,-37.84457,145.06218,Carport,4060000.0
+Camberwell,653 Burke Rd,h,3/9/2017,5.0,3.0,,,,-37.83562,145.05566,Detached Garage,3950000.0
+Doncaster,329 George St,h,3/9/2016,4.0,4.0,1157.0,,,-37.7779,145.127,Indoor,1924500.0
+Doncaster,9 Lauer St,h,3/9/2016,,,,,,,,Parkade,1416000.0
+Doncaster,2/20 Wetherby Rd,u,3/9/2016,2.0,1.0,65.0,,1975.0,-37.7887,145.1438,Carport,492500.0
+Doncaster,5 Boyd St,h,3/12/2016,3.0,1.0,727.0,123,1970.0,-37.7942,145.1218,Attached Garage,1403000.0
+Doncaster,20 Finlayson St,h,3/12/2016,4.0,2.0,725.0,,,-37.7891,145.1073,Indoor,1408000.0
+Doncaster,39 Frederick St,t,3/12/2016,4.0,2.0,242.0,,,-37.7915,145.1258,Parkade,855000.0
+Doncaster,19 Hanke Rd,h,3/12/2016,3.0,1.0,638.0,115,1970.0,-37.7912,145.1248,Underground,1450000.0
+Doncaster,47 Roseland Gr,h,3/12/2016,5.0,2.0,660.0,,,-37.7791,145.1328,Outdoor Stall,1461800.0
+Doncaster,33 Thiele St,h,3/12/2016,4.0,1.0,658.0,138,1975.0,-37.7827,145.1358,Parking Pad,1396000.0
+Doncaster,2/63 Whittens La,t,3/12/2016,3.0,2.0,0.0,,,-37.7914,145.131,Carport,
+Doncaster,1/3 Katrina St,t,4/2/2016,,,,,,,,Detached Garage,1320000.0
+Doncaster,6 Acheron St,h,4/6/2016,5.0,3.0,652.0,481,1970.0,-37.7909,145.1149,Carport,
+Doncaster,18 Buckingham Cr,h,4/6/2016,,,,,,,,Detached Garage,1390000.0
+Doncaster,8/3 Carnarvon St,u,4/6/2016,3.0,2.0,0.0,119,2007.0,-37.7862,145.1235,Attached Garage,700000.0
+Doncaster,28 Larkspur Av,h,4/6/2016,,,,,,,,Indoor,880000.0
+Doncaster,402/18 Berkeley St,u,6/8/2016,2.0,2.0,0.0,100,2011.0,-37.7856,145.128,Indoor,
+Doncaster,1a Morris St,h,6/8/2016,4.0,2.0,336.0,176,2007.0,-37.794,145.1178,Parkade,1152000.0
+Doncaster,5 Arnold Gr,h,7/5/2016,3.0,2.0,925.0,218,1960.0,-37.7869,145.1183,Indoor,1868000.0
+Doncaster,72 Board St,h,7/5/2016,4.0,3.0,655.0,,,-37.7798,145.1319,Parkade,920000.0
+Doncaster,22 Saxon St,h,7/5/2016,4.0,2.0,317.0,194,1995.0,-37.7815,145.1279,Underground,1050000.0
+Doncaster,37 Tullamore Av,h,7/5/2016,,,,,,,,Outdoor Stall,1550000.0
+Doncaster,26 Brendan Av,h,7/11/2016,,,,,,,,Detached Garage,1605000.0
+Doncaster,3/37 Highview Dr,u,7/11/2016,3.0,2.0,299.0,135,2001.0,-37.7929,145.1338,Attached Garage,910000.0
+Doncaster,3 Maralee Pl,h,7/11/2016,3.0,1.0,1073.0,143,1960.0,-37.7772,145.1157,Indoor,1850000.0
+Doncaster,41 Pettys La,h,7/11/2016,4.0,3.0,740.0,185,1985.0,-37.7912,145.1127,Parkade,1225000.0
+Doncaster,33 Somerville St,h,7/11/2016,4.0,2.0,716.0,155,1965.0,-37.778,145.1173,Carport,1316000.0
+Doncaster,6/14 Firth St,u,8/10/2016,2.0,1.0,0.0,,,-37.7868,145.1223,Outdoor Stall,400000.0
+Doncaster,36 Henry St,h,8/10/2016,5.0,3.0,656.0,320,1985.0,-37.7752,145.1317,Carport,1400000.0
+Doncaster,1/10 Morrison Cr,h,8/10/2016,,,,,,,,Detached Garage,736000.0
+Doncaster,20 Wilsons Rd,h,8/10/2016,3.0,2.0,836.0,195,1970.0,-37.7923,145.119,Attached Garage,
+Doncaster,49 Burgundy Dr,h,10/9/2016,5.0,5.0,669.0,395,2016.0,-37.7808,145.1185,Indoor,2168000.0
+Doncaster,1/77 Ayr St,u,10/12/2016,,,,,,,,Attached Garage,828000.0
+Doncaster,11A Balfour St,t,10/12/2016,,,,,,,,Indoor,945000.0
+Doncaster,35 Bordeaux St,h,10/12/2016,4.0,2.0,655.0,170,1970.0,-37.782,145.1194,Parkade,1430000.0
+Doncaster,4 Colston Cl,h,10/12/2016,4.0,2.0,780.0,,,-37.7955,145.139,Carport,1250000.0
+Doncaster,5/333 George St,u,10/12/2016,3.0,2.0,203.0,109,1986.0,-37.7776,145.1267,Detached Garage,772000.0
+Doncaster,1 Graeme Cl,h,10/12/2016,4.0,3.0,507.0,,,-37.7738,145.1308,Attached Garage,2000000.0
+Doncaster,22/222 Williamsons Rd,t,10/12/2016,,,,,,,,Carport,550000.0
+Doncaster,4 Judith Ct,h,12/6/2016,4.0,3.0,882.0,183,1960.0,-37.7801,145.1295,Indoor,
+Doncaster,28 Dunoon St,h,12/11/2016,4.0,2.0,806.0,170,1975.0,-37.7939,145.1392,Indoor,1468000.0
+Doncaster,9 Gilmore Rd,h,12/11/2016,3.0,1.0,720.0,,1960.0,-37.79,145.1309,Parkade,1275000.0
+Doncaster,2 Ibis St,h,12/11/2016,4.0,1.0,657.0,,,-37.7856,145.1374,Carport,1200000.0
+Doncaster,45 Koolkuna Av,h,12/11/2016,,,,,,,,Detached Garage,
+Doncaster,1 Sentinel Wy,t,12/11/2016,,,,,,,,Attached Garage,1011500.0
+Doncaster,3/36 Westfield Dr,u,12/11/2016,3.0,2.0,0.0,,,-37.7826,145.1274,Indoor,655000.0
+Doncaster,13 Carnarvon St,t,1/7/2017,3.0,2.0,0.0,,,-37.78653,145.12363,Attached Garage,840000.0
+Doncaster,2/4 Frank St,t,1/7/2017,,,,,,,,Indoor,945000.0
+Doncaster,33 Clay Dr,h,3/6/2017,4.0,4.0,1072.0,328,1960.0,-37.79094,145.12733,Parking Pad,2600000.0
+Doncaster,192 George St,h,3/6/2017,3.0,1.0,645.0,,,-37.77969,145.14033,Carport,1285000.0
+Doncaster,21 Hampshire Rd,h,3/6/2017,3.0,1.0,647.0,127,1965.0,-37.79436,145.13869,Detached Garage,1360000.0
+Doncaster,34 Henry St,h,3/6/2017,5.0,2.0,757.0,335,1980.0,-37.77536,145.13163,Attached Garage,1600000.0
+Doncaster,128 High St,h,3/6/2017,5.0,2.0,768.0,,,-37.77934,145.11344,Indoor,1370000.0
+Doncaster,3/41 Queens Av,t,3/6/2017,,,,,,,,Parkade,882000.0
+Doncaster,7 Ambrose St,h,3/9/2017,4.0,2.0,652.0,218,1970.0,-37.78145,145.13598,Outdoor Stall,1375000.0
+Doncaster,30 Braeside Dr,h,3/9/2017,,,,,,,,Carport,1400000.0
+Doncaster,1/728 Doncaster Rd,t,3/9/2017,3.0,2.0,,,2000.0,-37.78717,145.13392,Detached Garage,
+Doncaster,60 High St,h,3/9/2017,4.0,2.0,,248,1975.0,-37.7832,145.10931,Attached Garage,1275000.0
+Doncaster,13 Winbrook Ct,h,3/9/2017,5.0,3.0,630.0,,,-37.78151,145.12515,Indoor,1820000.0
+Doncaster,22 Glenfern Av,h,4/3/2017,,,,,,,,Detached Garage,1100000.0
+Doncaster,28 Glenfern Av,h,4/3/2017,,,,,,,,Attached Garage,
+Doncaster,1/4 Gregory Ct,t,4/3/2017,,,,,,,,Indoor,1231000.0
+Doncaster,12 Murillo Ct,h,4/3/2017,5.0,3.0,681.0,,,-37.7722,145.1309,Parkade,1535000.0
+Doncaster,2 Nola St,h,4/3/2017,3.0,2.0,819.0,173,1970.0,-37.781,145.1036,Underground,1125000.0
+Doncaster,24 Botanic Dr,h,4/11/2017,4.0,2.0,676.0,,1970.0,-37.7786,145.136,Detached Garage,1325000.0
+Doncaster,172 George St,h,4/11/2017,5.0,2.0,770.0,230,1980.0,-37.78,145.1425,Attached Garage,1350000.0
+Doncaster,1/58 Ayr St,t,6/5/2017,3.0,2.0,318.0,,,-37.7827,145.1029,Carport,
+Doncaster,9a Bayley Gr,h,6/5/2017,,,,,,,,Detached Garage,840000.0
+Doncaster,2/25 Clay Dr,t,6/5/2017,2.0,1.0,85.0,114,2009.0,-37.7901,145.1275,Attached Garage,
+Doncaster,3/37 Queens Av,u,6/5/2017,,,,,,,,Indoor,752000.0
+Doncaster,65 Winston Dr,h,7/10/2017,4.0,2.0,,183,1975.0,-37.77928,145.13087,Attached Garage,1380000.0
